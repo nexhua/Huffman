@@ -1,0 +1,16 @@
+/home/mert/VSCode/Huffman/bin/Debug/net5.0/Huffman
+/home/mert/VSCode/Huffman/bin/Debug/net5.0/Huffman.deps.json
+/home/mert/VSCode/Huffman/bin/Debug/net5.0/Huffman.runtimeconfig.json
+/home/mert/VSCode/Huffman/bin/Debug/net5.0/Huffman.runtimeconfig.dev.json
+/home/mert/VSCode/Huffman/bin/Debug/net5.0/Huffman.dll
+/home/mert/VSCode/Huffman/bin/Debug/net5.0/ref/Huffman.dll
+/home/mert/VSCode/Huffman/bin/Debug/net5.0/Huffman.pdb
+/home/mert/VSCode/Huffman/obj/Debug/net5.0/Huffman.csproj.AssemblyReference.cache
+/home/mert/VSCode/Huffman/obj/Debug/net5.0/Huffman.GeneratedMSBuildEditorConfig.editorconfig
+/home/mert/VSCode/Huffman/obj/Debug/net5.0/Huffman.AssemblyInfoInputs.cache
+/home/mert/VSCode/Huffman/obj/Debug/net5.0/Huffman.AssemblyInfo.cs
+/home/mert/VSCode/Huffman/obj/Debug/net5.0/Huffman.csproj.CoreCompileInputs.cache
+/home/mert/VSCode/Huffman/obj/Debug/net5.0/Huffman.dll
+/home/mert/VSCode/Huffman/obj/Debug/net5.0/ref/Huffman.dll
+/home/mert/VSCode/Huffman/obj/Debug/net5.0/Huffman.pdb
+/home/mert/VSCode/Huffman/obj/Debug/net5.0/Huffman.genruntimeconfig.cache
